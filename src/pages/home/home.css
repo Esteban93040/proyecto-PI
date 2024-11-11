@@ -1,0 +1,32 @@
+.container-home{
+    height: 100vh;
+    background-color: #FBF6F0;
+}
+.row{
+    color: rgb(0, 0, 0);
+    background-image: url('/images/home/background-leaves.jpg');
+    display: grid;
+    grid-template-columns: 48% 48%;
+    padding-top: 4%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.item-deforestation{
+    border-right: 1px solid white;
+    border-radius: 8px;
+
+}
+
+.item-soilErosion{
+    text-align: justify;
+}
+
+.button-home{
+    background-color: #045500 !important;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #945f5fc4;
+}
