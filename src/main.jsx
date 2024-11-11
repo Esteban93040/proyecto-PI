@@ -9,6 +9,7 @@ import Deforestation from "./pages/deforestation/Deforestation.jsx";
 import SoilErosion from "./pages/soilErosion/SoilErosion.jsx";
 import SelectCharacter from "./pages/selectCharacter/selectCharacter.jsx";
 import Level0 from "./pages/deforestation/level0/level0.jsx";
+//hola
 
 const router = createBrowserRouter([
   {
